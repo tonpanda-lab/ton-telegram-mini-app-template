@@ -1,6 +1,6 @@
 # Ton-Telegram-Mini-App-Template
 
-This is a template for developing Telegram mini apps on the TON blockchain. It is built using ReactJS, Tailwind CSS, and Vite to enable quick development of mini app user interfaces.
+This is a template for developing Telegram mini apps on the TON blockchain. It is built using ReactJS, Tailwind CSS, and Vite to enable quick development of mini app user interfaces. Brought to you by [TonPanda](https://tonpanda.com/).
 
 ## Features
 
@@ -15,7 +15,7 @@ To start using this template, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tonpanda/ton-telegram-mini-app-template.git
+   git clone https://github.com/tonpanda-lab/ton-telegram-mini-app-template.git
    ```
 
 2. Install dependencies:
@@ -48,7 +48,7 @@ ton-telegram-mini-app-template/
 │   │   └──...
 │   ├── App.jsx
 │   ├── index.jsx
-│   └── tailwind.css
+│   └── tailwind.config.js
 ├── vite.config.js
 └── package.json
 ```
@@ -59,7 +59,7 @@ ton-telegram-mini-app-template/
 - `pages/`: Contains the different pages of the app.
 - `App.jsx`: The main application component.
 - `index.jsx`: The entry point of the application.
-- `tailwind.css`: The Tailwind CSS configuration file.
+- `tailwind.config.js`: The Tailwind CSS configuration file.
 - `vite.config.js`: The Vite configuration file.
 - `package.json`: Contains the project dependencies and scripts.
 
